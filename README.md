@@ -10,4 +10,4 @@
 
 >Horizon was an addition made to this system that allowed lateral movement using an additional motor, a suspended pulley, and wire.
 
-* The aspect that made this project unique is the implementation of python rand libraries so that the servos could move the target in an unpredictable manner *
+*The aspect that made this project unique is the implementation of python rand libraries so that the servos could move the target in an unpredictable manner*
