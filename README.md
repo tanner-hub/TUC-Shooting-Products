@@ -2,11 +2,11 @@
 
 **These projects were developed in my free time as a hobbyist using a Raspberry Pi**
 
-##Flip.py
+## Flip.py
 
 >Flip is a small, automated target training system that is designed to rotate a two-sided target so that a user is presented with side 1, side 2, or no target positions.
 
-##Horizon.py
+## Horizon.py
 
 >Horizon was an addition made to this system that allowed lateral movement using an additional motor, a suspended pulley, and wire.
 
